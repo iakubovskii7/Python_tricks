@@ -19,6 +19,7 @@ https://pythonspeed.com/articles/blocking-cpu-or-io/ - find bottleneck in python
 https://realpython.com/async-io-python/ - asynchronous
 https://ajauntor.medium.com/interview-questions-for-advanced-python-programmers-e7e1fbb27c00 - Advanced Python interview question list
 https://medium.com/spatial-data-science/4-tools-to-speed-up-exploratory-data-analysis-eda-in-python-e240ebcd18de - EDA Python
+https://www.youtube.com/watch?v=ALQmuLMhRso - parsing with concurrent.futures and queue
 
 # Predictive models
 https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db - Catboost vs Lightdbm vs XGboost
