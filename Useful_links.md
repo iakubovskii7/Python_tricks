@@ -31,6 +31,7 @@ https://medium.com/techtofreedom/3-ways-to-explore-a-python-object-8ea74072b307 
 https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-10-auth-jwt/ - fastAPI tutorial
 https://pythonru.com/uroki/14-sozdanie-baz-dannyh-vo-flask - Flask
 https://habr.com/ru/post/513328/ - fastAPI web-service
+https://betterprogramming.pub/how-to-inspect-objects-in-python-9-functions-to-know-b1b152fe6bde - inspecting objects
 
 # Product analytics in Python with ML-methods
 https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e - survival analysis
