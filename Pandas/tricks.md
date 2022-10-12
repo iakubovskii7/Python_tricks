@@ -13,3 +13,5 @@ df.loc[df.shape[0]] = new_row
 # Identify the source of each row in Pandas Merge
 df = pd.merge(df1, df2, how = "left", indicator = True)
 
+https://towardsdatascience.com/25-advanced-pandas-functions-people-are-using-without-telling-you-b65fa442f0f4
+
